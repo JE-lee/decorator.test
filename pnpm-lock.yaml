@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  reflect-metadata: ^0.1.13
+
+dependencies:
+  reflect-metadata: registry.npmmirror.com/reflect-metadata/0.1.13
+
+packages:
+
+  registry.npmmirror.com/reflect-metadata/0.1.13:
+    resolution: {integrity: sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==, registry: https://registry.nlark.com/, tarball: https://registry.npmmirror.com/reflect-metadata/-/reflect-metadata-0.1.13.tgz}
+    name: reflect-metadata
+    version: 0.1.13
+    dev: false
